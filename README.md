@@ -9,5 +9,5 @@ El trabajo fue desarrollado de manera colaborativa utilizando Git y GitHub como 
 ## Miembros
 | Nombre | GitHub / Perfil |
 | :--- | :--- |
-| **Juan Pablo Peña** | [@jpenab02](https://github.com/jpenab02) |
-| **Solon Losada** | [@solonlosada2006]([https://github.com/jpenab02](https://github.com/solonlosada2006) |
+| **Juan Pablo Peña** | [@jpenab02] (https://github.com/jpenab02) |
+| **Solon Losada** | [@solonlosada2006] (https://github.com/solonlosada2006) |
